@@ -2,7 +2,7 @@ name: Vets.gov
 
 #URL of site, include http://, do not include a trailing slash
 #url: http://vets.gov
-url: http://staging.vets.gov
+url: ""
 #url: http://localhost:4000
 
 #baseurl: /beta-site
